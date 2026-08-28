@@ -4,7 +4,7 @@ Bienvenido 👋
 Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
 
 
-Hola que tal
+Hola que tal me llamo Brandon Saul, esta es mi primer pagina
 
 ---
 
@@ -15,3 +15,8 @@ Hola que tal
    site_name: Documentación del Curso
    theme:
      name: material
+
+
+     
+
+![Diagrama del sistema](recursos/imgs/G6jM9TcXMAAvOAb.jpg)
