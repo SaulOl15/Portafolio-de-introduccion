@@ -14,7 +14,7 @@ Hola que tal me llamo Brandon Saul, esta es mi primer pagina
    ```yaml
    site_name: Documentación del Curso
    theme:
-     name: material
+     name: materialdfghnjm
 
 
      
